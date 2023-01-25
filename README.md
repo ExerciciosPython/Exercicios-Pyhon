@@ -1,5 +1,12 @@
 # Exercícios Python
 
+Exercícios de python intermediário/avançado para você treinar.
+|Exercícios|
+|----------|
+|Funções/Iteráveis|
+|Criação de Exceções|
+|Mais em Breve . . .|
+
 ## Funções/Iteráveis
 
 1. Crie uma função que remova itens duplicados de uma lista.
